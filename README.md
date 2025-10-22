@@ -116,3 +116,10 @@ If you use DroneVAD in your research, please cite:
 This work was supported by the IITP (Institute of Information & Communications Technology Planning & Evaluation) –
 ITRC (Information Technology Research Center) grant funded by the Korea government
 (Ministry of Science and ICT) (IITP-2025-RS-2024-00438409).
+
+--- 
+## Contact
+Kyo Hong, Jin
+Changwon National University
+📧 Email: khjin@changwon.ac.kr  
+🌐 GitHub: KYOHONGJIN  

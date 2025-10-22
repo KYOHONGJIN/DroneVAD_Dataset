@@ -1,3 +1,5 @@
+The finished version will be uploaded within November of this year.
+
 # DroneVAD Dataset (v1.0)
 
 DroneVAD is a **UAV-based Video Anomaly Detection dataset** designed for moving-camera aerial surveillance scenarios.  

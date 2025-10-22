@@ -119,7 +119,7 @@ ITRC (Information Technology Research Center) grant funded by the Korea governme
 
 --- 
 ## Contact
-Kyo Hong, Jin
-Changwon National University
+Kyo Hong, Jin  
+Changwon National University  
 📧 Email: khjin@changwon.ac.kr  
 🌐 GitHub: KYOHONGJIN  
